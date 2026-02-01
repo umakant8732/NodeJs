@@ -1,0 +1,6 @@
+//there are five types of command which terminal executes
+//built in command
+//alias
+//function
+//script file
+//executable file
